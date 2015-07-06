@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta content="initial-scale=1.0, user-scalable=no" name="viewport">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Google Maps</title>
+    <link rel="stylesheet" type="text/css" href="css/gmap.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqZvNGEW2Wo_UtukN9jl3YLUe3WK2h8wY&sensor=false&libraries=weather" type="text/javascript"></script>
+    <script type="text/javascript" src="js/gmap.js"></script>
+</head>
+
+<body>
+        <div id="menubox" class="map-menu">
+        <div class="menu-background">
+        <div class="meu-items">
+            <h4 class="menu-tab"><span>Menu</span></h4><br>
+            <input id="layer1" name="mapLayers" type="checkbox">
+                <label>Haleakala Track</label><br>
+            <input id="layer2" name="mapLayers" type="checkbox">
+                <label>Haleakala Waypoints</label><br>
+            <input id="layer3" name="mapLayers" type="checkbox">
+                <label>Hokule'a Waypoints</label><br>
+            <input id="traffic" name="mapLayers" type="checkbox">
+                <label>Traffic</label><br>
+            <input id="weather" name="mapLayers" type="checkbox">
+                <label>Weather</label><br>
+            <p>
+                <input id="address" style="width: 70%" type="text" value="Wailuku, HI"> 
+                <input id="goto" type="button" value="Go">
+            </p>
+        </div></div></div>
+        <div id="map-canvas1" class="map-canvas"></div>
+</body>
+
+<script type="text/javascript">
+    var gis1 = new GIS();
+    google.maps.event.addDomListener(window, 'load', function(){gis1.init("map-canvas1")});
+</script>
+
+</html>

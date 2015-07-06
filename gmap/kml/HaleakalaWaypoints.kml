@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>xlsx_20140706054923</name>
+<Schema name="xlsx_20140706054923" id="xlsx_20140706054923">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="HST" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Altitude" type="string"></SimpleField>
+	<SimpleField name="Image" type="string"></SimpleField>
+	<SimpleField name="ImageURL" type="string"></SimpleField>
+	<SimpleField name="VideoURL" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>2</name>
+	<description>&lt;b&gt;HST: 41794.805543981&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.714569 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.250389 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">2</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.805543981&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.714569 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.250389 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:19</SimpleData>
+		<SimpleData name="Latitude">20.714569</SimpleData>
+		<SimpleData name="Longitude">-156.250389</SimpleData>
+		<SimpleData name="Altitude">2986.7</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.250389,20.714569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>&lt;b&gt;HST: 41794.814456019&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.712147 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.249962 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">3</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.814456019&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.712147 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.249962 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:32</SimpleData>
+		<SimpleData name="Latitude">20.712147</SimpleData>
+		<SimpleData name="Longitude">-156.249962</SimpleData>
+		<SimpleData name="Altitude">2989.5</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.249962,20.712147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>&lt;b&gt;HST: 41794.819664352&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.71193 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.249455 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">4</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.819664352&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.71193 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.249455 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:40</SimpleData>
+		<SimpleData name="Latitude">20.71193</SimpleData>
+		<SimpleData name="Longitude">-156.249455</SimpleData>
+		<SimpleData name="Altitude">2963.5</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.249455,20.71193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>&lt;b&gt;HST: 41794.821273148&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711358 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.249022 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">5</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.821273148&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711358 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.249022 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:42</SimpleData>
+		<SimpleData name="Latitude">20.711358</SimpleData>
+		<SimpleData name="Longitude">-156.249022</SimpleData>
+		<SimpleData name="Altitude">2956.5</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.249022,20.711358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>&lt;b&gt;HST: 41794.82724537&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709136 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.245821 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">6</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.82724537&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709136 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.245821 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:51</SimpleData>
+		<SimpleData name="Latitude">20.709136</SimpleData>
+		<SimpleData name="Longitude">-156.245821</SimpleData>
+		<SimpleData name="Altitude">2900.8</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.245821,20.709136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>&lt;b&gt;HST: 41794.828414352&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709017 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.24525 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">7</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.828414352&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709017 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.24525 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:52</SimpleData>
+		<SimpleData name="Latitude">20.709017</SimpleData>
+		<SimpleData name="Longitude">-156.24525</SimpleData>
+		<SimpleData name="Altitude">2895.8</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.24525,20.709017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>&lt;b&gt;HST: 41794.832002315&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709796 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.242842 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">8</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.832002315&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709796 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.242842 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 19:58</SimpleData>
+		<SimpleData name="Latitude">20.709796</SimpleData>
+		<SimpleData name="Longitude">-156.242842</SimpleData>
+		<SimpleData name="Altitude">2859.9</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.242842,20.709796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>&lt;b&gt;HST: 41794.834305556&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710449 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.242105 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">9</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.834305556&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710449 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.242105 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:01</SimpleData>
+		<SimpleData name="Latitude">20.710449</SimpleData>
+		<SimpleData name="Longitude">-156.242105</SimpleData>
+		<SimpleData name="Altitude">2844.1</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.242105,20.710449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>&lt;b&gt;HST: 41794.834479167&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710453 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.242113 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">10</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.834479167&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710453 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.242113 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:01</SimpleData>
+		<SimpleData name="Latitude">20.710453</SimpleData>
+		<SimpleData name="Longitude">-156.242113</SimpleData>
+		<SimpleData name="Altitude">2844.1</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.242113,20.710453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>&lt;b&gt;HST: 41794.844826389&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710752 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.238669 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">11</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.844826389&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710752 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.238669 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:16</SimpleData>
+		<SimpleData name="Latitude">20.710752</SimpleData>
+		<SimpleData name="Longitude">-156.238669</SimpleData>
+		<SimpleData name="Altitude">2761.1</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.238669,20.710752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>&lt;b&gt;HST: 41794.846053241&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711346 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.238715 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">12</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.846053241&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711346 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.238715 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:18</SimpleData>
+		<SimpleData name="Latitude">20.711346</SimpleData>
+		<SimpleData name="Longitude">-156.238715</SimpleData>
+		<SimpleData name="Altitude">2751.3</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.238715,20.711346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>&lt;b&gt;HST: 41794.851608796&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.713224 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.238044 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">13</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.851608796&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.713224 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.238044 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:26</SimpleData>
+		<SimpleData name="Latitude">20.713224</SimpleData>
+		<SimpleData name="Longitude">-156.238044</SimpleData>
+		<SimpleData name="Altitude">2720.1</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.238044,20.713224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>&lt;b&gt;HST: 41794.860115741&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710962 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.23528 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">14</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.860115741&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710962 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.23528 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:38</SimpleData>
+		<SimpleData name="Latitude">20.710962</SimpleData>
+		<SimpleData name="Longitude">-156.23528</SimpleData>
+		<SimpleData name="Altitude">2670.2</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.23528,20.710962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>&lt;b&gt;HST: 41794.861990741&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710407 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.234946 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">15</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.861990741&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710407 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.234946 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:41</SimpleData>
+		<SimpleData name="Latitude">20.710407</SimpleData>
+		<SimpleData name="Longitude">-156.234946</SimpleData>
+		<SimpleData name="Altitude">2664.5</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.234946,20.710407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>&lt;b&gt;HST: 41794.864976852&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710373 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.233992 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">16</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.864976852&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710373 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.233992 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:45</SimpleData>
+		<SimpleData name="Latitude">20.710373</SimpleData>
+		<SimpleData name="Longitude">-156.233992</SimpleData>
+		<SimpleData name="Altitude">2643.9</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.233992,20.710373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>&lt;b&gt;HST: 41794.866134259&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710505 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.233776 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">17</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.866134259&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.710505 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.233776 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:47</SimpleData>
+		<SimpleData name="Latitude">20.710505</SimpleData>
+		<SimpleData name="Longitude">-156.233776</SimpleData>
+		<SimpleData name="Altitude">2638</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.233776,20.710505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>&lt;b&gt;HST: 41794.868194444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711152 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.233259 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">18</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.868194444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711152 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.233259 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 20:50</SimpleData>
+		<SimpleData name="Latitude">20.711152</SimpleData>
+		<SimpleData name="Longitude">-156.233259</SimpleData>
+		<SimpleData name="Altitude">2623.1</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.233259,20.711152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>&lt;b&gt;HST: 41794.887326389&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709299 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.231293 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">19</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.887326389&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.709299 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.231293 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 21:17</SimpleData>
+		<SimpleData name="Latitude">20.709299</SimpleData>
+		<SimpleData name="Longitude">-156.231293</SimpleData>
+		<SimpleData name="Altitude">2542.9</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.231293,20.709299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>&lt;b&gt;HST: 41794.891516204&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.708711 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.229564 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">20</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.891516204&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.708711 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.229564 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 21:23</SimpleData>
+		<SimpleData name="Latitude">20.708711</SimpleData>
+		<SimpleData name="Longitude">-156.229564</SimpleData>
+		<SimpleData name="Altitude">2515.8</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.229564,20.708711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>&lt;b&gt;HST: 41794.908113426&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.707303 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.220915 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">21</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.908113426&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.707303 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.220915 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 21:47</SimpleData>
+		<SimpleData name="Latitude">20.707303</SimpleData>
+		<SimpleData name="Longitude">-156.220915</SimpleData>
+		<SimpleData name="Altitude">2449</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.220915,20.707303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>&lt;b&gt;HST: 41794.952939815&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.708996 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.212548 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">22</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.952939815&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.708996 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.212548 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 22:52</SimpleData>
+		<SimpleData name="Latitude">20.708996</SimpleData>
+		<SimpleData name="Longitude">-156.212548</SimpleData>
+		<SimpleData name="Altitude">2254.7</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.212548,20.708996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>&lt;b&gt;HST: 41794.959490741&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711492 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.210475 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">23</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.959490741&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.711492 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.210475 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:01</SimpleData>
+		<SimpleData name="Latitude">20.711492</SimpleData>
+		<SimpleData name="Longitude">-156.210475</SimpleData>
+		<SimpleData name="Altitude">2259.7</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.210475,20.711492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>&lt;b&gt;HST: 41794.961458333&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.712067 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.209913 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">24</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.961458333&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.712067 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.209913 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:04</SimpleData>
+		<SimpleData name="Latitude">20.712067</SimpleData>
+		<SimpleData name="Longitude">-156.209913</SimpleData>
+		<SimpleData name="Altitude">2268.3</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.209913,20.712067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>&lt;b&gt;HST: 41794.963773148&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.713274 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.20922 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">25</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.963773148&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.713274 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.20922 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:07</SimpleData>
+		<SimpleData name="Latitude">20.713274</SimpleData>
+		<SimpleData name="Longitude">-156.20922</SimpleData>
+		<SimpleData name="Altitude">2270.7</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.20922,20.713274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>&lt;b&gt;HST: 41794.964652778&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.713399 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.208995 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">26</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.964652778&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.713399 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.208995 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:09</SimpleData>
+		<SimpleData name="Latitude">20.713399</SimpleData>
+		<SimpleData name="Longitude">-156.208995</SimpleData>
+		<SimpleData name="Altitude">2268.9</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.208995,20.713399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>&lt;b&gt;HST: 41794.994664352&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.718127 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.202344 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">27</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.994664352&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.718127 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.202344 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:52</SimpleData>
+		<SimpleData name="Latitude">20.718127</SimpleData>
+		<SimpleData name="Longitude">-156.202344</SimpleData>
+		<SimpleData name="Altitude">2293.6</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.202344,20.718127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>&lt;b&gt;HST: 41794.99744213&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.717754 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.19995 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">28</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.99744213&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.717754 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.19995 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:56</SimpleData>
+		<SimpleData name="Latitude">20.717754</SimpleData>
+		<SimpleData name="Longitude">-156.19995</SimpleData>
+		<SimpleData name="Altitude">2265.3</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.19995,20.717754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>&lt;b&gt;HST: 41794.998969907&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.718196 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.20067 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">29</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41794.998969907&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.718196 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.20067 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/4/14 23:58</SimpleData>
+		<SimpleData name="Latitude">20.718196</SimpleData>
+		<SimpleData name="Longitude">-156.20067</SimpleData>
+		<SimpleData name="Altitude">2260</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.20067,20.718196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>&lt;b&gt;HST: 41795.00400463&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.721052 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.201763 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">30</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.00400463&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.721052 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.201763 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:05</SimpleData>
+		<SimpleData name="Latitude">20.721052</SimpleData>
+		<SimpleData name="Longitude">-156.201763</SimpleData>
+		<SimpleData name="Altitude">2240</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.201763,20.721052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>&lt;b&gt;HST: 41795.005462963&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.721845 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.201719 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">31</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.005462963&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.721845 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.201719 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:07</SimpleData>
+		<SimpleData name="Latitude">20.721845</SimpleData>
+		<SimpleData name="Longitude">-156.201719</SimpleData>
+		<SimpleData name="Altitude">2231.3</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.201719,20.721845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>&lt;b&gt;HST: 41795.012106481&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.725494 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.204951 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">32</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.012106481&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.725494 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.204951 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:17</SimpleData>
+		<SimpleData name="Latitude">20.725494</SimpleData>
+		<SimpleData name="Longitude">-156.204951</SimpleData>
+		<SimpleData name="Altitude">2198.6</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.204951,20.725494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>&lt;b&gt;HST: 41795.017800926&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.729214 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.206373 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">33</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.017800926&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.729214 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.206373 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:25</SimpleData>
+		<SimpleData name="Latitude">20.729214</SimpleData>
+		<SimpleData name="Longitude">-156.206373</SimpleData>
+		<SimpleData name="Altitude">2186.8</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.206373,20.729214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>&lt;b&gt;HST: 41795.019456019&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.729921 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.206153 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">34</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.019456019&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.729921 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.206153 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:28</SimpleData>
+		<SimpleData name="Latitude">20.729921</SimpleData>
+		<SimpleData name="Longitude">-156.206153</SimpleData>
+		<SimpleData name="Altitude">2194.3</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.206153,20.729921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>&lt;b&gt;HST: 41795.021076389&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.730389 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.206329 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">35</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.021076389&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.730389 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.206329 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:30</SimpleData>
+		<SimpleData name="Latitude">20.730389</SimpleData>
+		<SimpleData name="Longitude">-156.206329</SimpleData>
+		<SimpleData name="Altitude">2188.2</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.206329,20.730389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>&lt;b&gt;HST: 41795.024247685&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.730524 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.207131 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">36</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.024247685&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.730524 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.207131 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:34</SimpleData>
+		<SimpleData name="Latitude">20.730524</SimpleData>
+		<SimpleData name="Longitude">-156.207131</SimpleData>
+		<SimpleData name="Altitude">2204.7</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.207131,20.730524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>&lt;b&gt;HST: 41795.028321759&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.732975 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.208931 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">37</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.028321759&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.732975 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.208931 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:40</SimpleData>
+		<SimpleData name="Latitude">20.732975</SimpleData>
+		<SimpleData name="Longitude">-156.208931</SimpleData>
+		<SimpleData name="Altitude">2198.6</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.208931,20.732975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>&lt;b&gt;HST: 41795.029340278&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.733257 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.209069 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">38</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41795.029340278&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.733257 deg.&lt;br&gt;&lt;b&gt;Longitude:&lt;/b&gt; -156.209069 deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="HST">6/5/14 0:42</SimpleData>
+		<SimpleData name="Latitude">20.733257</SimpleData>
+		<SimpleData name="Longitude">-156.209069</SimpleData>
+		<SimpleData name="Altitude">2197.5</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.209069,20.733257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">39</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 1:09</SimpleData>
+		<SimpleData name="Latitude">20.739963</SimpleData>
+		<SimpleData name="Longitude">-156.215862</SimpleData>
+		<SimpleData name="Altitude">2145.5</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.215862,20.739963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">40</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 1:16</SimpleData>
+		<SimpleData name="Latitude">20.741576</SimpleData>
+		<SimpleData name="Longitude">-156.217673</SimpleData>
+		<SimpleData name="Altitude">2131.1</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.217673,20.741576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">41</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 1:29</SimpleData>
+		<SimpleData name="Latitude">20.741529</SimpleData>
+		<SimpleData name="Longitude">-156.217969</SimpleData>
+		<SimpleData name="Altitude">2133.6</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.217969,20.741529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">42</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 2:28</SimpleData>
+		<SimpleData name="Latitude">20.75208</SimpleData>
+		<SimpleData name="Longitude">-156.213157</SimpleData>
+		<SimpleData name="Altitude">2028.6</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.213157,20.75208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">43</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 3:05</SimpleData>
+		<SimpleData name="Latitude">20.753817</SimpleData>
+		<SimpleData name="Longitude">-156.212691</SimpleData>
+		<SimpleData name="Altitude">2128.8</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.212691,20.753817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">44</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 4:13</SimpleData>
+		<SimpleData name="Latitude">20.756374</SimpleData>
+		<SimpleData name="Longitude">-156.216961</SimpleData>
+		<SimpleData name="Altitude">2317.7</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.216961,20.756374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140706054923">
+		<SimpleData name="Name">45</SimpleData>
+		<SimpleData name="Description"></SimpleData>
+		<SimpleData name="HST">6/5/14 4:27</SimpleData>
+		<SimpleData name="Latitude">20.755849</SimpleData>
+		<SimpleData name="Longitude">-156.21856</SimpleData>
+		<SimpleData name="Altitude">2351.3</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">http://www.ladyinter.com/uploads/2920/phuket-beach1.jpg</SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.21856,20.755849</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+
