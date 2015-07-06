@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Earth</title>
+    <base id="mybase" href="https://googledrive.com/host/0B0wBpavttwoLWG9saFBaYVFtaTg/" target="_blank">
+    <link type="text/css" href="css/ge.css" rel="stylesheet">
+    <script src="//www.google.com/jsapi?key=AIzaSyCckMCTYOqMly5Ye8HAa74ijG69vOzBz8Q" type="text/javascript"></script>
+    <script src="//earth-api-samples.googlecode.com/svn/trunk/lib/kmldomwalk.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/ge.js"></script>
+</head>
+<body>
+    <section class="header">
+        <section class="menubox" style="align: center">
+            <form id="cbox" style="float: left">
+                <input id="cbStatus" type="checkbox" onclick='ge.updateOptions()' name="statusbar">Status Bar
+                <input id="cbGrid"   type="checkbox" onclick='ge.updateOptions()' name="grid">Grid
+                <input id="cbScale"  type="checkbox" onclick='ge.updateOptions()' name="scaleLegend">Scale Legend
+                <input id="cbBorder" type="checkbox" onclick='ge.updateOptions()' name="borders">Borders
+                <input id="cbRoads"  type="checkbox" onclick='ge.updateOptions()' name="roads">Roads
+                <input id="cbAtmos"  type="checkbox" onclick='ge.updateOptions()' name="atmosphere" checked>Atmosphere
+            </form>
+        </section>
+        <section class="menubox" style="padding: 3px">
+            <input id="location" type="text" value="Waihee, HI "></input>
+            <button type="button" onclick="ge.buttonClick()">Fly Here!</button>
+        </section>
+    </section>
+    <section class="gebox">
+        <div id="map3d"></div>
+        <div>Installed Plugin Version: <span id="installed-plugin-version" style="font-weight: bold;">Loading...</span></div>
+    </section>
+    <section class="surveybox">
+        <h3>Tours</h3>
+        <form class="survey">
+            <label class="survey">
+                <input id="tour1" type="checkbox" name="layers">Haleakala Tour</label>
+        </form>
+    </section>
+    <section class="surveybox">
+        <h3>Waypoints</h3>
+        <form class="survey">
+            <label class="survey">
+                <input id="waypoints1" type="checkbox" name="layers">Haleakala Waypoints</label>
+            <label class="survey">
+                <input id="waypoints2" type="checkbox" name="layers">Hokule'a Waypoints</label>
+        </form>
+    </section>
+</body>
+<script>
+    var ge = new GIS('map3d');
+    google.setOnLoadCallback(ge.init);
+</script>
+</html>
