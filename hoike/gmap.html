@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta content="initial-scale=1.0, user-scalable=no" name="viewport">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <!-- Update href value;  it needs to specify the URL path to your gmap folder -->
+    <base id="mybase" href="https://googledrive.com/host/0B7wcpcDhycieS2ZWaEU2OE8tQkk/" target="_blank">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqZvNGEW2Wo_UtukN9jl3YLUe3WK2h8wY&sensor=false" type="text/javascript"></script>
+    <title>Google Maps</title>
+    <link rel="stylesheet" type="text/css" href="css/gmap.css">
+    <script type="text/javascript" src="js/gmap.js"></script>
+</head>
+
+<body>
+    <div id="map-canvas" class="left-side"></div>
+
+    <section class="right-side">
+        <header class="right-header">
+            <!-- Start of Main Menu -->
+            <div id="main-menu" style="float: left; width: 98%">
+                <div id="submenu1">
+                    <a href="basic.html">Return</a>
+                </div>
+            </div>
+            <!-- End of Main Menu -->
+            <input id="address" style="width: 70%" type="text" value="Wailuku, HI"> 
+            <input id="goto" type="button" value="Go">
+        </header>
+        <div id="menubox" class="right-section">
+            <h4 clicked="0">Information Layers</h4>
+            <input id="layer1" name="mapLayers" type="checkbox">
+                <label>Hosmers Grove Track</label><br>
+            <input id="layer2" name="mapLayers" type="checkbox">
+                <label>Hosmers Grove Waypoints</label><br>
+            <input id="layer3" name="mapLayers" type="checkbox">
+                <label>Hokule'a Waypoints</label><br>
+        </div>
+    </section>
+</body>
+</html>

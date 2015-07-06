@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20140707090518</name>
+<Schema name="csv_20140707090518" id="csv_20140707090518">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="HST" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="altitude (m)" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="Image" type="string"></SimpleField>
+	<SimpleField name="ImageURL" type="string"></SimpleField>
+	<SimpleField name="VideoURL" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>11</name>
+	<description>&lt;b&gt;HST: 41823.0097222222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.940905 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.515903 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0069.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0070.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">11</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0097222222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.940905 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.515903 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0069.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0070.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:14</SimpleData>
+		<SimpleData name="Latitude">20.940905</SimpleData>
+		<SimpleData name="Longitude">-156.515903</SimpleData>
+		<SimpleData name="altitude (m)">69.3</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0069.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0069.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0070.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.515903,20.940905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>&lt;b&gt;HST: 41823.0131944444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.940745 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.515629 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0071.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0072.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">12</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0131944444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.940745 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.515629 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0071.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0072.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:19</SimpleData>
+		<SimpleData name="Latitude">20.940745</SimpleData>
+		<SimpleData name="Longitude">-156.515629</SimpleData>
+		<SimpleData name="altitude (m)">59.3</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0071.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0071.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0072.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.515629,20.940745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>&lt;b&gt;HST: 41823.0145833333&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941085 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.515935 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0074.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0073.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">13</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0145833333&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941085 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.515935 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0074.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0073.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:21</SimpleData>
+		<SimpleData name="Latitude">20.941085</SimpleData>
+		<SimpleData name="Longitude">-156.515935</SimpleData>
+		<SimpleData name="altitude (m)">59.1</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0074.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0074.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0073.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.515935,20.941085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>&lt;b&gt;HST: 41823.0173611111&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941052 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.516294 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0076.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0075.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">14</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0173611111&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941052 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.516294 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0076.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0075.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:25</SimpleData>
+		<SimpleData name="Latitude">20.941052</SimpleData>
+		<SimpleData name="Longitude">-156.516294</SimpleData>
+		<SimpleData name="altitude (m)">64.5</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0076.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0076.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0075.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.516294,20.941052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>&lt;b&gt;HST: 41823.0201388889&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941289 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.516742 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0077.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0078.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">15</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0201388889&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941289 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.516742 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0077.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0078.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:29</SimpleData>
+		<SimpleData name="Latitude">20.941289</SimpleData>
+		<SimpleData name="Longitude">-156.516742</SimpleData>
+		<SimpleData name="altitude (m)">63.4</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0077.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0077.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0078.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.516742,20.941289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>&lt;b&gt;HST: 41823.0243055556&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941653 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514722 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0079.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0080.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">16</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0243055556&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941653 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514722 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0079.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0080.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:35</SimpleData>
+		<SimpleData name="Latitude">20.941653</SimpleData>
+		<SimpleData name="Longitude">-156.514722</SimpleData>
+		<SimpleData name="altitude (m)">69.3</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0079.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0079.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0080.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514722,20.941653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>&lt;b&gt;HST: 41823.0256944444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.942015 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514304 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0082.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0081.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">17</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0256944444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.942015 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514304 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0082.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0081.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:37</SimpleData>
+		<SimpleData name="Latitude">20.942015</SimpleData>
+		<SimpleData name="Longitude">-156.514304</SimpleData>
+		<SimpleData name="altitude (m)">64.9</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0082.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0082.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0081.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514304,20.942015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>&lt;b&gt;HST: 41823.0284722222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941671 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514276 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0083.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0084.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">18</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0284722222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.941671 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514276 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0083.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0084.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:41</SimpleData>
+		<SimpleData name="Latitude">20.941671</SimpleData>
+		<SimpleData name="Longitude">-156.514276</SimpleData>
+		<SimpleData name="altitude (m)">59.4</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0083.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0083.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0084.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514276,20.941671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>&lt;b&gt;HST: 41823.0298611111&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.942041 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514101 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0085.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0086.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">19</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0298611111&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.942041 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514101 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0085.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0086.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:43</SimpleData>
+		<SimpleData name="Latitude">20.942041</SimpleData>
+		<SimpleData name="Longitude">-156.514101</SimpleData>
+		<SimpleData name="altitude (m)">60.3</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0085.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0085.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0086.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514101,20.942041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>&lt;b&gt;HST: 41823.0298611111&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.942194 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514016 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0087.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0088.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140707090518">
+		<SimpleData name="Name">20</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.0298611111&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.942194 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.514016 
+
+deg.&lt;br&gt;&lt;br&gt;&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0087.JPG' /&gt;&lt;br&gt;&lt;b&gt;Video:&lt;/b&gt; https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0088.MOV&lt;br&gt;&lt;p&gt;&lt;/p&gt;</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/2014 0:43</SimpleData>
+		<SimpleData name="Latitude">20.942194</SimpleData>
+		<SimpleData name="Longitude">-156.514016</SimpleData>
+		<SimpleData name="altitude (m)">61</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='100%' height='auto' src='https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0087.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBI0087.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://4bebe893da6bc08d8bcd55cf494ae618b3f7c32c.googledrive.com/host/0B2e7e_KeycJ3b3psRFU3dHRkWUE/AMBV0088.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514016,20.942194</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

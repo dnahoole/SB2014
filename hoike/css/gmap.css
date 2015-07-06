@@ -1,0 +1,89 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.left-side {
+    float: left;
+    height: 100%;
+    width: 80.5%;
+}
+
+.right-side {
+    float: left;
+    height: 100%;
+    width: 19%;
+    border: 1px solid black;
+    overflow: scroll;
+}
+
+.right-header {
+    float: left;
+    height: 7%;
+    width: 100%;
+    padding: 2px;
+}
+
+.right-section {
+    float: left;
+    font-weight: bold;
+    border: 2px outset black;
+    width: 98%;
+    height: 90%;
+    background-color: lightgrey;
+    margin: auto;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+h2, h4 {
+    margin: 2px;
+    text-align: center;
+}
+
+#pic-canvas: {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.googft-info-window  {
+    padding: 5px;
+    background-color: lightgrey;
+    overflow: hidden;
+}
+
+.melt {
+    -webkit-animation: meltingImage 5s linear 2s infinite alternate;
+    -moz-animation: meltingImage 5s linear 2s infinite alternate;
+}
+
+@-webkit-keyframes meltingImage {
+    0% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 1;
+    }
+
+    45% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}

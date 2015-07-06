@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>xlsx_20140707083719</name>
+<Schema name="xlsx_20140707083719" id="xlsx_20140707083719">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="HST" type="string"></SimpleField>
+	<SimpleField name="latitude" type="string"></SimpleField>
+	<SimpleField name="longitude" type="string"></SimpleField>
+	<SimpleField name="altitude" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="Image" type="string"></SimpleField>
+	<SimpleField name="ImageURL" type="string"></SimpleField>
+	<SimpleField name="VideoURL" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">23</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:16</SimpleData>
+		<SimpleData name="latitude">20.940909</SimpleData>
+		<SimpleData name="longitude">-156.515913</SimpleData>
+		<SimpleData name="altitude">70</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">
+            &lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0027.jpg' /&gt;
+        </SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0027.jpg</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0028.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.515913,20.940909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">24</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:19</SimpleData>
+		<SimpleData name="latitude">20.9411</SimpleData>
+		<SimpleData name="longitude">-156.515948</SimpleData>
+		<SimpleData name="altitude">67.5</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0029.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0029.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0030.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.515948,20.9411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">25</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:26</SimpleData>
+		<SimpleData name="latitude">20.941052</SimpleData>
+		<SimpleData name="longitude">-156.516254</SimpleData>
+		<SimpleData name="altitude">66.4</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0032.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0032.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0031.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.516254,20.941052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">26</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:30</SimpleData>
+		<SimpleData name="latitude">20.941077</SimpleData>
+		<SimpleData name="longitude">-156.517504</SimpleData>
+		<SimpleData name="altitude">73.3</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0034.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0034.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0033.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.517504,20.941077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">27</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:34</SimpleData>
+		<SimpleData name="latitude">20.94148</SimpleData>
+		<SimpleData name="longitude">-156.518254</SimpleData>
+		<SimpleData name="altitude">81.5</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='' /&gt;</SimpleData>
+		<SimpleData name="ImageURL"></SimpleData>
+		<SimpleData name="VideoURL"></SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.518254,20.94148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">28</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:36</SimpleData>
+		<SimpleData name="latitude">20.940907</SimpleData>
+		<SimpleData name="longitude">-156.519088</SimpleData>
+		<SimpleData name="altitude">92.7</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0036.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0036.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0035.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.519088,20.940907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">29</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:41</SimpleData>
+		<SimpleData name="latitude">20.94175</SimpleData>
+		<SimpleData name="longitude">-156.517227</SimpleData>
+		<SimpleData name="altitude">75.1</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0038.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0038.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0037.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.517227,20.94175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">30</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:50</SimpleData>
+		<SimpleData name="latitude">20.941992</SimpleData>
+		<SimpleData name="longitude">-156.51447</SimpleData>
+		<SimpleData name="altitude">55.7</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0040.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0040.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0039.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.51447,20.941992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">32</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:51</SimpleData>
+		<SimpleData name="latitude">20.94168</SimpleData>
+		<SimpleData name="longitude">-156.514756</SimpleData>
+		<SimpleData name="altitude">62.4</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0041.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0041.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0042.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514756,20.94168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#xlsx_20140707083719">
+		<SimpleData name="Name">33</SimpleData>
+		<SimpleData name="type">W</SimpleData>
+		<SimpleData name="HST">7/3/14 0:53</SimpleData>
+		<SimpleData name="latitude">20.940992</SimpleData>
+		<SimpleData name="longitude">-156.514943</SimpleData>
+		<SimpleData name="altitude">62.9</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0043.JPG' /&gt;</SimpleData>
+		<SimpleData name="ImageURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBI0043.JPG</SimpleData>
+		<SimpleData name="VideoURL">https://googledrive.com/host/0B53ubzQk9rZGZDF1TFZvMENMSFk/AMBV0044.MOV</SimpleData>
+		<SimpleData name="Text"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.514943,20.940992</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

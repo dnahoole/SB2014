@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20140709070242</name>
+<Schema name="csv_20140709070242" id="csv_20140709070242">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Altitude (m)" type="string"></SimpleField>
+	<SimpleField name="Sym" type="string"></SimpleField>
+	<SimpleField name="Image" type="string"></SimpleField>
+	<SimpleField name="Image URL" type="string"></SimpleField>
+	<SimpleField name="Video URL" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>HOSMERS GROVE</name>
+	<description>&lt;b&gt;HST: 41823.8805555556&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.76815 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237428 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/HosmersGrove' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">HOSMERS GROVE</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.8805555556&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.76815 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237428 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/HosmersGrove' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:08</SimpleData>
+		<SimpleData name="Latitude">20.76815</SimpleData>
+		<SimpleData name="Longitude">-156.237428</SimpleData>
+		<SimpleData name="Altitude (m)">2076.7</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/HosmersGrove' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/HosmersGrove</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.237428,20.76815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REST AREA</name>
+	<description>&lt;b&gt;HST: 41823.8527777778&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.76812 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237382 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/RestArea' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">REST AREA</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.8527777778&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.76812 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237382 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/RestArea' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 20:28</SimpleData>
+		<SimpleData name="Latitude">20.76812</SimpleData>
+		<SimpleData name="Longitude">-156.237382</SimpleData>
+		<SimpleData name="Altitude (m)">2079.4</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/RestArea' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/RestArea.jpg</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.237382,20.76812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PROTOCOL</name>
+	<description>&lt;b&gt;HST: 41823.8847222222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768159 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237405 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Protocol</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">PROTOCOL</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.8847222222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768159 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237405 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Protocol</SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:14</SimpleData>
+		<SimpleData name="Latitude">20.768159</SimpleData>
+		<SimpleData name="Longitude">-156.237405</SimpleData>
+		<SimpleData name="Altitude (m)">2071.7</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='' /&gt;</SimpleData>
+		<SimpleData name="Image URL"></SimpleData>
+		<SimpleData name="Video URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Protocol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.237405,20.768159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TREES</name>
+	<description>&lt;b&gt;HST: 41823.8972222222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768455 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.236634 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Trees' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">TREES</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.8972222222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768455 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.236634 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Trees' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:32</SimpleData>
+		<SimpleData name="Latitude">20.768455</SimpleData>
+		<SimpleData name="Longitude">-156.236634</SimpleData>
+		<SimpleData name="Altitude (m)">2065</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Trees' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Trees</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.236634,20.768455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOSS</name>
+	<description>&lt;b&gt;HST: 41823.9&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.767668 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.236036 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Moss' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">MOSS</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.9&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.767668 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.236036 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Moss' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:36</SimpleData>
+		<SimpleData name="Latitude">20.767668</SimpleData>
+		<SimpleData name="Longitude">-156.236036</SimpleData>
+		<SimpleData name="Altitude (m)">2090.7</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Moss' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Moss</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.236036,20.767668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOOKOUT</name>
+	<description>&lt;b&gt;HST: 41823.9034722222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.767551 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.23577 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Lookout.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">LOOKOUT</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.9034722222&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.767551 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.23577 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Lookout.jpg' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:41</SimpleData>
+		<SimpleData name="Latitude">20.767551</SimpleData>
+		<SimpleData name="Longitude">-156.23577</SimpleData>
+		<SimpleData name="Altitude (m)">2100.7</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Lookout.jpg' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Lookout.jpg</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.23577,20.767551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIST</name>
+	<description>&lt;b&gt;HST: 41823.9131944444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768045 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.236917 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Mist' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">MIST</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.9131944444&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768045 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.236917 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Mist' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:55</SimpleData>
+		<SimpleData name="Latitude">20.768045</SimpleData>
+		<SimpleData name="Longitude">-156.236917</SimpleData>
+		<SimpleData name="Altitude (m)">2080.1</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Mist' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Mist</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.236917,20.768045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REFLECTION</name>
+	<description>&lt;b&gt;HST: 41823.8527777778&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768039 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237277 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Reflection' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">REFLECTION</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.8527777778&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768039 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237277 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Reflection' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 20:28</SimpleData>
+		<SimpleData name="Latitude">20.768039</SimpleData>
+		<SimpleData name="Longitude">-156.237277</SimpleData>
+		<SimpleData name="Altitude (m)">2080.3</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Reflection' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/Reflection</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.237277,20.768039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LUNCH TIME</name>
+	<description>&lt;b&gt;HST: 41823.8826388889&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768092 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237469 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/LunchTime' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20140709070242">
+		<SimpleData name="Name">LUNCH TIME</SimpleData>
+		<SimpleData name="Description">&lt;b&gt;HST: 41823.8826388889&lt;/b&gt;&lt;br&gt;&lt;b&gt;Latitude:&lt;/b&gt; 20.768092 deg., &lt;b&gt;Longitude:&lt;/b&gt; -156.237469 deg.&lt;br&gt;&lt;br&gt;&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/LunchTime' /&gt;&lt;br&gt;&lt;b&gt;Video:I1&lt;/b&gt; </SimpleData>
+		<SimpleData name="Type">W</SimpleData>
+		<SimpleData name="Time">7/3/2014 21:11</SimpleData>
+		<SimpleData name="Latitude">20.768092</SimpleData>
+		<SimpleData name="Longitude">-156.237469</SimpleData>
+		<SimpleData name="Altitude (m)">2076.2</SimpleData>
+		<SimpleData name="Sym">Flag, Blue</SimpleData>
+		<SimpleData name="Image">&lt;img width='auto' height='200px' src='https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/LunchTime' /&gt;</SimpleData>
+		<SimpleData name="Image URL">https://googledrive.com/host/0B4nJji29IVY-dU9pcVd5b1ZQOVk/LunchTime</SimpleData>
+		<SimpleData name="Video URL"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.237469,20.768092</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

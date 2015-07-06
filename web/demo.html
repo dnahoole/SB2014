@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Demo HTML</title>
+    
+    <link rel="stylesheet" type="text/css" href="css/animation.css">
+    <link rel="stylesheet" type="text/css" href="css/basic.css">
+    <script type="text/javascript" src="js/basic.js"></script>
+</head>
+
+<body>
+
+    <!-- Start of Header -->
+ 
+    <header>
+        <h1 id="title" class="moveH1">Summer Bridge 2014!</h1>
+    </header>
+    <!-- End of Header -->    
+
+    <!-- Start of Left Column -->
+
+    <div class="column_left">
+
+        <!-- section #1:  Slide Show -->
+
+        <p id="para1" class="section_title">
+            Hover mouse over image...
+        </p>
+        <section id="sect1">
+           <div id="sect1" onmouseover="mouseOver()" onmouseout="mouseOut()">
+              <img class= "melt1" src="img/surf1.jpg" width="250px" height="auto" alt="image #1">
+              <img src="img/surf2.jpg" width="250px" height="auto" alt="image #2">
+           </div>
+        </section>
+
+        <!-- End of section #1 -->
+
+        <!-- section #2:  Rotate, Scale, & Translate -->
+
+        <p id="para2" class="section_title">
+            Hover mouse over image...
+        </p>
+        <section id="sect2">
+           <img id="img3" src="img/surf3.jpg" alt="image #3">
+          <img id="img4" src="http://cdn.surf.transworld.net/files/2009/12/bb8y0x3947a.jpg" alt="image #4"
+        </section>
+
+        <!-- End of section #2 -->
+
+    </div>
+
+    <!-- End of Left Column -->    
+    
+    <!-- Start of Middle Column -->
+
+    <div class="column_middle">
+    
+        <!-- section #3:  Wood Crate simulation -->
+
+        <p id="para3" class="section_title">
+            Youtube Video Search...
+        </p>
+        <section id="sect3" class="section_content">
+            <iframe src="video.html" frameborder="0"></iframe>
+        </section>
+
+        <!-- End of section #3 -->
+
+        <!-- section #4:  Interactive Cube simulation -->
+
+        <p id="para4" class="section_title">
+            Interactive Cube... drag mouse across cube!...
+        </p>
+        <section id="sect4" class="section_content">
+            <iframe src="adv/cube.html" frameborder="0"></iframe>
+        </section>
+
+        <!-- End of section #4 -->
+
+        <!-- section #5: Ocean simulation -->
+
+        <p id="para5" class="section_title">
+            Ocean Simulation... drag mouse across ocean!...
+        </p>
+        <section id="sect5" class="section_content">
+            <iframe src="adv/ocean.html" frameborder="0"></iframe>
+        </section>
+
+        <!-- End of section #5 -->
+        
+    </div>
+
+    <!-- End of Middle Column -->    
+
+    <!-- Start of Right Column -->
+
+    <div class="column_right">
+    
+        <!-- section #6: Change title -->
+
+        <p id="para6." class="section_title">
+            Change header title ...
+        </p>
+        <section id="sect6" class="section_content">
+          <textarea id="txtHdr" name="comments" rows="4" cols="37"></textarea>
+          <input id="btnHdr" type="button" value="Save changes" onclick="changeText()" />
+        </section>
+
+        <!-- End of section #6 -->
+        
+        <!-- section #7:  Play a video -->
+
+        <p id="para7" class="section_title">
+            Play a video...
+        </p>
+        <section id="sect7" class="section_content">
+            <iframe id="vid1" src="https://www.youtube.com/embed/VIrBecB746c?rel=0" frameborder="0"</iframe>
+        </section>
+
+        <!-- End of section #7 -->
+
+        <!-- section #8:  Play a video -->
+
+        <p class="section_title">
+            <select onchange="changeMusic(value)">
+                <option value="" selected>Play music...</option>
+                <option value="audio/KaulanaNaPua.mp3">Kaulana Na Pua</option>
+            </select>
+        </p>
+        <audio id="myMusic" controls>
+            <source id="mySel" src="" type="audio/mp3">
+            Your browser does not support the audio tag.
+        </audio>
+
+        <!-- End of section #8 -->
+        
+    </div>
+
+    <!-- End of Right Column -->
+    
+</body>
+
+</html>

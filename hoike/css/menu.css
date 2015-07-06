@@ -1,0 +1,29 @@
+a:link, a:visited    {
+    color: white; 
+    background-color: royalblue;     
+    border: 2px outset white;
+    border-radius: 10px; 
+    text-decoration:none;
+    margin-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:active  {
+    color: red; 
+}
+
+#submenu1 {
+    float: left;
+    color: black;
+    font-family: arial, verdana, "san serif";
+    font-size: 12pt;
+    background-color: transparent;
+    border-radius: 10px;
+    height: 4%;
+    width: auto;
+    padding: 5px;
+    margin: 5px;
+}

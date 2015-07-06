@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Streaming Video</title>
+    <link rel="stylesheet" type="text/css" href="css/animation.css">
+    <link rel="stylesheet" type="text/css" href="css/basic.css">
+    <script type="text/javascript" src="js/rpi.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1 id="title" class="moveH1">Use the Firefox web browser...</h1>
+    </header>
+    <p class="section_title">VLC Viewer...</p>
+    <section class="section_content">
+        <embed id="vlc"
+               type="application/x-vlc-plugin"
+               pluginspage="http://www.videolan.org"
+               target="http://192.168.200.64:8080" />
+        <object classid="clsid:9BE31822-FDAD-461B-AD51-BE1D1C159921"
+                codebase="http://download.videolan.org/pub/videolan/vlc/last/win32/axvlc.cab">
+        </object>
+    </section>
+</body>
+
+</html>

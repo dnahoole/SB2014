@@ -1,0 +1,99 @@
+.moveH1  { 
+            position: relative;
+            -webkit-animation: movingText linear 10s 0s infinite normal;
+            -moz-animation: movingText linear 10s 0s infinite normal;
+        }
+
+@-webkit-keyframes movingText
+        {
+            0%   {left: -450px; top: 0px; opacity: 1;}
+            90%  {left: 1000px; top: 0px; opacity: 1;}
+            100% {left: 1100px; top: 0px; opacity: 0;}
+        }
+
+.moveImg {
+            position: relative;
+            z-index: 2;
+            -webkit-animation: movingImage linear 10s 1s infinite normal;
+        }
+
+@-webkit-keyframes movingImage 
+        {
+            0%   {left: -450px; top: 0px; opacity: 1;}
+            90%  {left: 1000px; top: 0px; opacity: 1;}
+            100% {left: 1100px; top: 0px; opacity: 0;}
+        }
+
+.melt1 
+        {
+            position: absolute;
+            -webkit-animation: meltingImage 5s linear 2s infinite alternate;
+            -moz-animation: meltingImage 5s linear 2s infinite alternate;
+        }
+
+@-webkit-keyframes meltingImage {
+    0% {
+        opacity: 1;
+    }
+
+    45% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+#img3{
+    -webkit-transition: -webkit-transform 4s; 
+    -moz-transition: -moz-transform 4s; 
+    -o-transition: -o-transform 4s; 
+    transition: transform 4s;
+}
+
+#img3:hover
+{
+    -webkit-transform: rotate(360deg) scale(6, 6) translate(100px, -20px); 
+    -moz-transform: rotate(360deg) scale(6, 6) translate(100px, -20px); 
+    -o-transform: rotate(360deg) scale(6, 6) translate(100px, -20px); 
+    transform: rotate(360deg) scale(6, 6) translate(100px, -20px); 
+}
+
+#img4{
+    -webkit-transition: -webkit-transform 4s; 
+    -moz-transition: -moz-transform 4s; 
+    -o-transition: -o-transform 4s; 
+    transition: transform 4s;
+}
+
+#img4:hover
+{
+    -webkit-transform: scale(6, 6) translate(100px, -20px); 
+    -moz-transform: scale(6, 6) translate(100px, -20px); 
+    -o-transform: scale(6, 6) translate(100px, -20px); 
+    transform: scale(6, 6) translate(100px, -20px); 
+}
+
+#vid1{
+    -webkit-transition: -webkit-transform 4s; 
+    -moz-transition: -moz-transform 4s; 
+    -o-transition: -o-transform 4s; 
+    transition: transform 4s;
+}
+
+#vid1:hover
+{
+    -webkit-transform: scale(3, 3) translate(-150px, 0px); 
+    -moz-transform: scale(6, 6) translate(100px, -20px); 
+    -o-transform: scale(6, 6) translate(100px, -20px); 
+    transform: scale(6, 6) translate(100px, -20px); 
+}

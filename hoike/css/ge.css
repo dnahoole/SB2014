@@ -1,0 +1,52 @@
+.header {
+    float: left;
+    border: 2px outset black;
+    width: 99%;
+    height: 7%;
+    background-color: lightgrey;
+    margin: 1px;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+.menubox {
+    float: left;
+    width: auto;
+    height: 100%;
+    font-weight: bold;
+    font-size: 12pt;
+    font: Arial;
+    background-color: grey;
+    color: white;
+    margin: 1px;
+    margin-right: 23px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.gebox {
+    float: left;
+    width: 84%;
+    height: auto;
+    margin: 1px;
+    padding: 1px;
+}
+
+.surveybox {
+    float: left;
+    width: 14%;
+    height: auto;
+    font-weight: bold;
+    background-color: grey;
+    color: white;
+    margin: 1px;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 30%;
+}
+
+.survey {
+    float: left;
+    height: auto;
+    width: 100%;
+}

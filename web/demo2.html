@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<!-- Floating elements. -->
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Demo 2 HTML</title>
+
+<!-- Basic CSS & JavaScript -->
+
+    <link rel="stylesheet" type="text/css" href="css/animation.css">
+    <link rel="stylesheet" type="text/css" href="css/basic.css">
+    <script type="text/javascript" src="js/basic.js"></script>
+</head>
+
+<body>
+
+    <header>
+        <h1 id="title" class="moveH1">Header Title</h1>
+    </header>
+    
+    <div class="column_left">
+
+        <p class="section_title">
+            Hover mouse over image...
+        </p>
+
+        <section>
+            <div id="sect1" onmouseover="mouseOver()" onmouseout="mouseOut()">
+                <img class="melt1" src="img/surf1.jpg" alt="image #1">
+                <img src="img/surf2.jpg" alt="image #2">
+            </div>
+        </section>
+
+        <p class="section_title">
+            Hover mouse over image...
+        </p>
+        
+        <section id="sect2">
+            <img id="img3" src="img/surf3.jpg" alt="image #3">
+            <img id="img4" src="http://cdn.surf.transworld.net/files/2009/12/bb8y0x3947a.jpg" alt="image #4">
+        </section>
+
+    </div>
+
+    <div class="column_middle">
+
+        <p class="section_title">Youtube Video Search</p>      
+        <section class="section_content">
+            <iframe height="400px" width="100%" src="video.html"></iframe>
+        </section>
+
+    </div>
+
+    <div class="column_right">
+        <p class="section_title">Change header title...</p>
+        <section class="section_content">
+            <textarea id="txtHdr" name = "comments" rows = "4" cols = "37"></textarea>
+            <input id="btnHdr" type = "button" value = "Save changes" onclick="changeText()" />
+        </section>
+        
+    
+        <p class="section_title">Play a video...</p>
+        <iframe id="vid1" width="100%" height="auto" src="https://www.youtube.com/embed/VIrBecB746c?rel=0" frameborder="0">
+        </iframe>
+        
+        <p class="section_title">
+            <select onchange="changeMusic(value)">
+                <option value="" selected>Play music...</option>
+                <option value="audio/Keep_Your_Head_Up.mp3">Keep Your Head Up</option>
+                <option value="audio/KaulanaNaPua.mp3">Kaulana Na Pua</option>
+            </select>
+        </p>
+        <audio id="myMusic" controls>
+            <source id="mySel" src="" type="audio/mp3">
+            Your browser does not support the audio tag.
+        </audio>
+    </div>
+</body>
+
+</html>
